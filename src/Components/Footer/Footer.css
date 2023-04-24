@@ -1,0 +1,23 @@
+.footer-container {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   height: 70px;
+   background-color: #3A4895;
+   padding: 25px;
+}
+
+.contact-btn{
+   cursor:pointer;
+   background-color: transparent;
+   color:white;
+   border:none;
+   font-size: 16px;
+}
+
+h4 {
+   font-family: inter;
+   font-weight: 300;
+   font-size: 18px;
+   color: #FCFCFC;
+}

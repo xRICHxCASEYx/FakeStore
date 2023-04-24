@@ -1,0 +1,15 @@
+.header-container {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   height: 70px;
+   background-color: lightgray;
+   padding: 25px;
+}
+
+h2 {
+   font-family: inter;
+   font-weight: 700;
+   font-size: 24px;
+   color: #3A4895;
+}
